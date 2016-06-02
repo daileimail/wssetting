@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="doctest" type="JavaScript" />
-      <mapping pattern="es6Test" type="JavaScript" />
       <mapping pattern="topic2Search" type="JavaScript" />
+      <mapping pattern="es6Test" type="JavaScript" />
       <mapping pattern="test.js" type="PLAIN_TEXT" />
       <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping ext="log-2016-02-18" type="PLAIN_TEXT" />
@@ -13,14 +13,15 @@
       <mapping ext="log-2016-01-16" type="PLAIN_TEXT" />
       <mapping ext="log-2016-01-11" type="PLAIN_TEXT" />
       <mapping ext="log-2016-04" type="PLAIN_TEXT" />
+      <mapping ext="log-2016-04-20-13" type="PLAIN_TEXT" />
       <mapping ext="log-2016-04-21-16" type="PLAIN_TEXT" />
       <mapping ext="log-2015-12-30" type="PLAIN_TEXT" />
       <mapping ext="log-2015-12-10" type="PLAIN_TEXT" />
-      <mapping ext="log-2016-04-20-15" type="PLAIN_TEXT" />
       <mapping ext="log-2015-12-04" type="PLAIN_TEXT" />
       <mapping ext="log-2015-12-03" type="PLAIN_TEXT" />
-      <mapping ext="log-2016-04-20-13" type="PLAIN_TEXT" />
+      <mapping ext="log-2016-04-20-15" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
