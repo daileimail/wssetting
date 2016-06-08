@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="angular-bootstrap-calendar-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angular-bootstrap-calendar_angular-bootstrap-calendar.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angular-bootstrap-calendar_angular-bootstrap-calendar.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrap-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_bootstrap_bootstrap.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_bootstrap_bootstrap.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
